@@ -1,6 +1,6 @@
 # pH and Dissolved Oxygen Atlas Sci Slice
 
-pH and DO sensor carrier slice for BREAD.
+pH and DO sensor carrier slice for BREAD [for Atlas Scientific Ezo sensors].
 
 ## Introduction
 
